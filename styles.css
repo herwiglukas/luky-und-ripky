@@ -2521,6 +2521,7 @@ html {
   
     .activity-image {
       height: 280px;
+      background-position: 30%;
     }
   
     .activity-image.runner {
