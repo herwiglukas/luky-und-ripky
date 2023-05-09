@@ -2315,6 +2315,7 @@ html {
 
   .activity-image.alba {
     background-image: url("images/albatop4.png");
+    background-position: 30%;
   }
   
   .activity-image.front {
@@ -2336,13 +2337,14 @@ html {
   
   .activity-image.run {
     background-image: url("images/IMG_2243 1.png");
+    background-position: 50%;
   }
   
   .activity-image.cold {
     background-image: url("images/IMG_2252 1.png");
-    background-position: 0 0;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 40%;
   }
   
   .activity-image.clap {
